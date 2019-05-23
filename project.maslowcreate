@@ -1,0 +1,24 @@
+{
+    "molecules": [
+        {
+            "atomType": "Molecule",
+            "name": "Winch Cover",
+            "x": 0,
+            "y": 0,
+            "uniqueID": 915866,
+            "ioValues": [],
+            "topLevel": true,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1445,
+                    "y": 227,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        }
+    ]
+}
